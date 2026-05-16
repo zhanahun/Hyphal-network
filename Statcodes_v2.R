@@ -23,7 +23,7 @@ print(normality_results)
 qq_plots <- ggqqplot(df, x = "CV2", facet.by = "Gradient")
 print(qq_plots)
 
-## Pearson's correlation test
+### Pearson's correlation test=========================================================================================================================
 cor.test(df$RBR, df$CV2, method = "pearson") #replace names with other variables
 
 ###Plotting ===========================================================================================================================================

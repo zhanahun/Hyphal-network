@@ -1,13 +1,14 @@
 # Hyphal-network
 Scripts for paper "Arbuscular mycorrhizal fungi change foraging behavior by altering hyphal structures in response to nitrogen availability"
 
-## Hardwares
+## Hardware
 GPU: NVIDIA 5060Ti 16GB
 
 Memory: 96GB
 
-## Python version
-3.12
+## Software
+Python: 3.12
+R studio: 4.2.2
 
 ## Description
 "HD_early stop_gpu_v3.2.6.py" is the script for training the Unet++ model for predicting Runner hyphae (RH) and Branched absorbing structures (BAS) from arbuscular mycorrhizal fungal hyphal microscopic images.

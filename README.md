@@ -3,6 +3,7 @@ Scripts for paper "Arbuscular mycorrhizal fungi change foraging behavior by alte
 
 ## Hardwares
 GPU: NVIDIA 5060Ti 16GB
+
 Memory: 96Gb
 
 ## Python version

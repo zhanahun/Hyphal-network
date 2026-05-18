@@ -1,7 +1,3 @@
-#Now skeleton is correctly showing actual edges
-#can replace v5&6
-#Output total pixels
-
 import os
 import glob
 import numpy as np

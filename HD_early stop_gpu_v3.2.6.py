@@ -1,7 +1,3 @@
-##HD early stopping test - PyTorch Version with U-Net++ (Improved Foreground IoU)
-
-##Predict BAS and RH separately with filtered patches and overlap
-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F

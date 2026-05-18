@@ -8,6 +8,7 @@ Memory: 96GB
 
 ## Software
 Python: 3.12
+
 R studio: 4.2.2
 
 ## Description

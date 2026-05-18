@@ -1,6 +1,10 @@
 # Hyphal-network
 Scripts for paper "Arbuscular mycorrhizal fungi change foraging behavior by altering hyphal structures in response to nitrogen availability"
 
+## Hardwares
+GPU: NVIDIA 5060Ti 16GB
+Memory: 96Gb
+
 ## Python version
 3.12
 

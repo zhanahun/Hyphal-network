@@ -1,9 +1,3 @@
-#revised from v5.2
-#more aggressive on RH
-#based on Gemini
-
-## Prediction - v5.4 (Advanced Stitching + TTA + Reconnection + Bridge Correction)
-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F

@@ -7,6 +7,11 @@ This repository contains the full pipeline: a UNet++ model that segments RH and 
 
 Code accompanying: *Arbuscular mycorrhizal fungi change foraging behavior by altering hyphal structures in response to nitrogen availability (Under review at New Phytologist)*
 
+## Example output
+<img width="798" height="559" alt="image" src="https://github.com/user-attachments/assets/e674fe04-3f86-445d-9353-0f587ab2017f" />
+
+
+
 ## Requirements
 ### Software
 Python: 3.12

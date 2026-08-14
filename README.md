@@ -11,6 +11,9 @@ Code accompanying: *Arbuscular mycorrhizal fungi change foraging behavior by alt
 <img width="798" height="559" alt="image" src="https://github.com/user-attachments/assets/e674fe04-3f86-445d-9353-0f587ab2017f" />
 
 
+### Performance
+<img width="975" height="483" alt="image" src="https://github.com/user-attachments/assets/f855dd35-2459-4feb-9571-56932294c2f1" />
+
 
 ## Requirements
 ### Software
